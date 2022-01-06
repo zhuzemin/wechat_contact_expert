@@ -23,7 +23,7 @@
 // @grant         GM_registerMenuCommand
 // @grant         GM_setValue
 // @grant         GM_getValue
-// @require      https://github.com/gyeongseokKang/exportExcel_javascript/raw/master/lib/exceljs.js
+// @require      https://cdn.jsdelivr.net/gh/gyeongseokKang/exportExcel_javascript@master/lib/exceljs.js
 // ==/UserScript==
 
 //config
